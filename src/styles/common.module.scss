@@ -1,0 +1,14 @@
+.preview {
+  display: block;
+  width: 100vw;
+  max-width: 600px;
+  margin: 5rem auto 5rem;
+  background: var(--heading);
+  color: var(--background);
+  text-align: center;
+  border-radius: 4px;
+  padding: 1rem;
+  font-weight: 600;
+  font-size: 1.125rem;
+  text-decoration: none;
+}
